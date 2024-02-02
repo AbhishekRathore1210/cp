@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Acer/OneDrive - Lovely Professional University/Desktop/CP QUESTION",
-      "program": "c:/Users/Acer/OneDrive - Lovely Professional University/Desktop/CP QUESTION/build/Debug/outDebug",
+      "cwd": "c:/Users/Acer/OneDrive - Lovely Professional University/Desktop/new cp/cp",
+      "program": "c:/Users/Acer/OneDrive - Lovely Professional University/Desktop/new cp/cp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
