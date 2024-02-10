@@ -15,7 +15,7 @@ class Trie{
     Node* root;
     public:
     Trie(){
-        root = new Node('/0');
+        root = new Node(NULL);
     }
 
 void addWord(string s){
@@ -29,8 +29,8 @@ void addWord(string s){
         else{
             temp = temp->childern[word];
         }
-        temp->isTerminal = true;
         }
+        temp->isTerminal = true;
 }
 bool search(string query){
     Node* temp = root;
@@ -51,8 +51,9 @@ bool search(string query){
 int main(){
 Trie t;
 string s[] = {"krish","abhishek","yash"};
-for(int i=0;i<3;i++){
+int n=3;
+for(int i=0;i<n;i++){
     t.addWord(s[i]);
 }
-cout<<t.search("kri");
+cout<<t.search("yash");
 }
