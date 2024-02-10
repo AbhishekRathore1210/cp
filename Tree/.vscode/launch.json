@@ -8,13 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-<<<<<<< HEAD
-      "cwd": "c:/Users/Acer/Documents/CP/cp",
-      "program": "c:/Users/Acer/Documents/CP/cp/build/Debug/outDebug",
-=======
-      "cwd": "c:/Users/Acer/OneDrive - Lovely Professional University/Desktop/new cp/cp",
-      "program": "c:/Users/Acer/OneDrive - Lovely Professional University/Desktop/new cp/cp/build/Debug/outDebug",
->>>>>>> main
+      "cwd": "c:/Users/Acer/Documents/CP/cp/Tree",
+      "program": "c:/Users/Acer/Documents/CP/cp/Tree/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

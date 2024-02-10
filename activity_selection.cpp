@@ -2,6 +2,9 @@
 using namespace std;
 int findMin(vector<int>& start,vector<int>& end,int n){
     vector<pair<int,int>> ans;
+    for(int i=0;i<n;i++){
+        ans.push_back({end[i],start[i]});
+    }
     
 }
 int main(){
